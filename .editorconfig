@@ -10,6 +10,9 @@ trim_trailing_whitespace = true
 
 [*.ts]
 quote_type = single
+semicolon = false
+
+[*.json]
 
 [*.md]
 max_line_length = off
