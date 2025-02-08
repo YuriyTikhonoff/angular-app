@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { UserComponent } from '../user/user.component';
-import { UserOuterComponent } from '../user-outter/user-outer.component';
+import { UserComponent } from '../app-user/user.component';
+import { UserOuterComponent } from '../app-user-outter/user-outer.component';
 
 @Component({
   selector: 'my-component',
